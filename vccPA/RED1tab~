@@ -1,0 +1,2 @@
+#label	limit	min	    max	    avpkt	burst	prob
+RED1	1000001	50000	100000	1500	61	1.0
